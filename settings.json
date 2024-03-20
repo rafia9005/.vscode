@@ -1,0 +1,49 @@
+{
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "git.enabled": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Ayu Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "editor.scrollBeyondLastLine": true,
+  "editor.formatOnSave": true,
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "files.exclude": {
+    // "**/node_modules": true
+  },
+  "editor.wordWrap": "on",
+  "terminal.integrated.gpuAcceleration": "off",
+  "editor.fontFamily": "JetBrains Mono",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "workbench.editor.enablePreview": false,
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/dist": true
+  },
+  "editor.snippetSuggestions": "top",
+  "extensions.autoCheckUpdates": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "files.maxMemoryForLargeFilesMB": 4096,
+  "search.maxFileSize": 5000000,
+  "editor.lineNumbers": "on",
+  "workbench.editor.showTabs": "none"
+}
